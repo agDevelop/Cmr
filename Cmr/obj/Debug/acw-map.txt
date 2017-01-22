@@ -1,0 +1,4 @@
+Cmr.MainActivity, Cmr;md50728513e20949f23fec2327f691d6669.MainActivity
+Cmr.MainActivity, Cmr, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50728513e20949f23fec2327f691d6669.MainActivity
+Cmr.MainActivity;md50728513e20949f23fec2327f691d6669.MainActivity
+cmr.MainActivity;md50728513e20949f23fec2327f691d6669.MainActivity
